@@ -10,8 +10,10 @@ HTML
 JAVASCRIPT 
 CSS
 
-# Client Side - Server Side 
-client.lua server.lua 
+# Fonctionalitée 
+- Script Client Serveur Séparés
+- Performance et Optimisée 
+- Communications Sécurisé
 
 
 
