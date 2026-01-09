@@ -13,7 +13,7 @@ CSS
 # Fonctionalitée 
 - Script Client Serveur Séparés
 - Performance et Optimisée 
-- Communications Sécurisé
+
 
 
 
